@@ -165,40 +165,31 @@
 </br>
 
 
-
-
-
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                             GITHUB STATS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 ## <img src="https://media.tenor.com/4Pn_yTK8fNwAAAAi/shuusakurai-shuu.gif" height="32" align="center"/> &nbsp; GitHub Stats
 
 <div align="center">
 
 <!-- Stats Card - Pure Black -->
-<a href="https://github.com/mikey177013">
-  <img height="170" src="https://gh-readme-stats.vercel.app/api?username=mikey177013&show_icons=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=8B5CF6&hide_border=true" alt="stats"/>
+<a href="https://github.com/noturpiyuxh">
+  <img height="170" src="https://gh-readme-stats.vercel.app/api?username=noturpiyuxh&show_icons=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=8B5CF6&hide_border=true" alt="stats"/>
 </a>
 
 <!-- Streak Card - Pure Black -->
-<a href="https://github.com/mikey177013">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mikey177013&theme=dark&background=000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=ffffff&sideNums=8B5CF6&sideLabels=aaaaaa&dates=aaaaaa&hide_border=true" alt="streak"/>
+<a href="https://github.com/noturpiyuxh">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=noturpiyuxh&theme=dark&background=000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=ffffff&sideNums=8B5CF6&sideLabels=aaaaaa&dates=aaaaaa&hide_border=true" alt="streak"/>
 </a>
 
 <br/>
 
 <!-- Top Languages - Pure Black -->
-<a href="https://github.com/mikey177013">
-  <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mikey177013&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=8B5CF6&hide_border=true" alt="top-langs"/>
+<a href="https://github.com/noturpiyuxh">
+  <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=noturpiyuxh&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=8B5CF6&hide_border=true" alt="top-langs"/>
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph - Pure Black -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mikey177013&bg_color=000000&color=aaaaaa&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6&hide_border=true" width="98%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noturpiyuxh&bg_color=000000&color=aaaaaa&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6&hide_border=true" width="98%" alt="activity graph"/>
 
 </div>
 
@@ -215,7 +206,7 @@
 <a href="https://sanosenxpai.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://github.com/mikey177013">
+<a href="https://github.com/noturpiyuxh">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://youtube.com/@sano.senxpai">
